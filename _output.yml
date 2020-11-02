@@ -1,0 +1,5 @@
+bookdown::bs4_book:
+  theme:
+    primary: "#1f58a3"
+  config:
+    download: ["main.pdf", "main.epub"]
